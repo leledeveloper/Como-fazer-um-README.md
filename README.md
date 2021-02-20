@@ -29,4 +29,4 @@ Ex.: Na primeira tela do app é exibido um campo onde permite pesquisar um Heró
 
 # Observações
 - Informações ou observações extras.</br>
-Ex.: Esse aplicativo foi desenvolvido por [@leticiafaleia](https://github.com/leticiafaleia) - através do curso do professor [Eric Brito](https://www.udemy.com/course/curso-completo-de-desenvolvimento-ios11swift4].
+Ex.: Esse aplicativo foi desenvolvido por [@leticiafaleia](https://github.com/leticiafaleia) - através do curso do professor [Eric Brito](https://www.udemy.com/course/curso-completo-de-desenvolvimento-ios11swift4).
