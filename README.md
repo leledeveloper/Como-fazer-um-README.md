@@ -25,12 +25,8 @@ Depois de instalar, abra a pasta do projeto e digite o comando:
 Ex.: Na primeira tela do app é exibido um campo onde permite pesquisar um Herói da API [MARVEL](https://developer.marvel.com/):
 - Após pesquisar um herói será exibida na TableView uma lista com os heróis que possuam o nome pesquisado, caso contrário exibirá e mensagem "Hero, not found".
 
-<img src="launchScreen.png" width="200"/>
-<img src="searchScreen.png" width="200"/>
-<img src="loadingScreen.png" width="200"/>
-<img src="resultScreen.png" width="200"/>
-<img src="heroDetails.png" width="200"/>
+<img src="launchScreen.png" width="180"/><img src="searchScreen.png" width="180"/><img src="loadingScreen.png" width="180"/><img src="resultScreen.png" width="180"/><img src="heroDetails.png" width="180"/>
 
 # Observações
 - Informações ou observações extras.</br>
-Ex.: Esse aplicativo foi desenvolvido por @leticiafaleia - através do curso do professor Eric Brito.
+Ex.: Esse aplicativo foi desenvolvido por [@leticiafaleia](https://github.com/leticiafaleia) - através do curso do professor [Eric Brito](https://www.udemy.com/course/curso-completo-de-desenvolvimento-ios11swift4].
